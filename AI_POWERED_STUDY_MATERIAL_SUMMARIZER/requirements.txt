@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+transformers
+torch
+sentencepiece
+nltk
+fpdf
