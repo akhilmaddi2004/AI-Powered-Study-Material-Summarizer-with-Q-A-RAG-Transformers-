@@ -71,7 +71,7 @@ User Upload PDF
 ## 📂 Project Structure
 
 ```
-
+```
 AI_PDF_Summarizer/
 │── app.py
 │── requirements.txt
